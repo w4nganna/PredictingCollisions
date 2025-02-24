@@ -2,7 +2,7 @@
 
 For this project traffic collision data was analyzed to enhance road safety and EMS response times in Toronto. We merged datasets from the City of Toronto, Environment Canada, and other traffic sources—comprising over 180,000 records with 23 features—to explore the factors contributing to collisions and to identify high-risk areas.
 
-We employed a multi-model approach:
+To do so a multi-model approach was employed:
 - **Kernel Density Estimation (KDE):** Mapped spatial collision hotspots.
 - **Logistic Regression (LR) & Random Forest Classifier (RFC):** Predicted collision risk by incorporating both spatial and non-spatial factors (e.g., time-of-day, weather conditions).
   
