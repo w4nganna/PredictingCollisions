@@ -1,6 +1,6 @@
 # PredictingCollisions
 
-For this project the team analyzed traffic collision data to enhance road safety and EMS response times in Toronto. We merged datasets from the City of Toronto, Environment Canada, and other traffic sources—comprising over 180,000 records with 23 features—to explore the factors contributing to collisions and to identify high-risk areas.
+For this project traffic collision data was analyzed to enhance road safety and EMS response times in Toronto. We merged datasets from the City of Toronto, Environment Canada, and other traffic sources—comprising over 180,000 records with 23 features—to explore the factors contributing to collisions and to identify high-risk areas.
 
 We employed a multi-model approach:
 - **Kernel Density Estimation (KDE):** Mapped spatial collision hotspots.
